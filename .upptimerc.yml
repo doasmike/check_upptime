@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: Dev.to
+    url: https://dev.to/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
