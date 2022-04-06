@@ -62,19 +62,19 @@
     "url": "https://dev.to/",
     "icon": "https://favicons.githubusercontent.com/dev.to",
     "slug": "dev-to",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.97%",
     "time": 160,
-    "timeDay": 301,
-    "timeWeek": 211,
-    "timeMonth": 170,
+    "timeDay": 228,
+    "timeWeek": 204,
+    "timeMonth": 169,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 92
     }
   },
   {
