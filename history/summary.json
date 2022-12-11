@@ -32,7 +32,7 @@
     "timeDay": 376,
     "timeWeek": 245,
     "timeMonth": 218,
-    "timeYear": 226,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2022-03-01": 31
     }
@@ -63,19 +63,19 @@
     "url": "https://dev.to/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.to.ico",
     "slug": "dev-to",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.94%",
     "time": 181,
-    "timeDay": 211,
-    "timeWeek": 253,
+    "timeDay": 209,
+    "timeWeek": 250,
     "timeMonth": 214,
-    "timeYear": 185,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-12-11": 16,
+      "2022-12-11": 19,
       "2022-12-10": 183,
       "2022-09-23": 18,
       "2022-04-06": 92
