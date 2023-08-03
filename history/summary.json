@@ -4,20 +4,18 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 298,
-    "timeWeek": 152,
-    "timeMonth": 140,
+    "timeDay": 217,
+    "timeWeek": 136,
+    "timeMonth": 139,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2023-08-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 193,
+    "timeDay": 104,
     "timeWeek": 181,
-    "timeMonth": 174,
+    "timeMonth": 169,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2023-01-25": 29
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 286,
-    "timeDay": 273,
-    "timeWeek": 242,
-    "timeMonth": 264,
+    "timeDay": 258,
+    "timeWeek": 264,
+    "timeMonth": 258,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2023-06-08": 23,
@@ -75,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 179,
-    "timeDay": 120,
-    "timeWeek": 125,
-    "timeMonth": 191,
-    "timeYear": 176,
+    "timeDay": 140,
+    "timeWeek": 135,
+    "timeMonth": 193,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2022-12-17": 75,
       "2022-12-16": 15,
