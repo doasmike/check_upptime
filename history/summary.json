@@ -6,9 +6,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
     "timeDay": 250,
@@ -16,7 +16,6 @@
     "timeMonth": 117,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-09-09": 7,
       "2024-05-01": 31
     }
   },
@@ -43,7 +42,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +54,7 @@
     "timeMonth": 363,
     "timeYear": 308,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-04-26": 22,
       "2024-03-09": 16,
       "2024-01-10": 110,
