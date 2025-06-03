@@ -58,9 +58,9 @@
     "url": "https://dev.to/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.to.ico",
     "slug": "dev-to",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -70,6 +70,7 @@
     "timeMonth": 260,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2025-06-03": 0,
       "2024-09-25": 17
     }
   },
