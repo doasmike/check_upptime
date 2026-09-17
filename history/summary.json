@@ -8,12 +8,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.92%",
     "time": 130,
     "timeDay": 74,
     "timeWeek": 74,
-    "timeMonth": 135,
+    "timeMonth": 130,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2025-12-14": 19,
@@ -44,7 +44,7 @@
     "time": 199,
     "timeDay": 234,
     "timeWeek": 274,
-    "timeMonth": 168,
+    "timeMonth": 161,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-12-03": 17
@@ -64,7 +64,7 @@
     "time": 291,
     "timeDay": 95,
     "timeWeek": 177,
-    "timeMonth": 234,
+    "timeMonth": 232,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-12-31": 35
@@ -75,16 +75,16 @@
     "url": "https://dev.to/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.to.ico",
     "slug": "dev-to",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.64%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.88%",
     "time": 153,
-    "timeDay": 140,
-    "timeWeek": 106,
-    "timeMonth": 262,
+    "timeDay": 84,
+    "timeWeek": 99,
+    "timeMonth": 259,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2025-09-22": 22,
@@ -94,7 +94,8 @@
       "2026-01-15": 65,
       "2026-01-14": 36,
       "2026-07-25": 195,
-      "2026-09-13": 137
+      "2026-09-13": 137,
+      "2026-09-17": 1
     }
   },
   {
