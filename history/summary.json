@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 128,
-    "timeDay": 64,
-    "timeWeek": 82,
+    "timeDay": 60,
+    "timeWeek": 79,
     "timeMonth": 85,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 104,
+    "timeDay": 37,
     "timeWeek": 109,
-    "timeMonth": 196,
-    "timeYear": 188,
+    "timeMonth": 164,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-12-03": 17
     }
@@ -61,10 +61,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 291,
-    "timeDay": 416,
-    "timeWeek": 308,
-    "timeMonth": 261,
+    "time": 290,
+    "timeDay": 357,
+    "timeWeek": 345,
+    "timeMonth": 263,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-12-31": 35
@@ -77,14 +77,14 @@
     "slug": "dev-to",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "69.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.69%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.80%",
     "time": 149,
-    "timeDay": 71,
-    "timeWeek": 86,
-    "timeMonth": 189,
+    "timeDay": 68,
+    "timeWeek": 91,
+    "timeMonth": 188,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2025-11-11": 26,
